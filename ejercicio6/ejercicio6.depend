@@ -1,11 +1,10 @@
 # depslib dependency file v1.0
-1649163803 source:e:\programacion\ejercicio6\main.c
+1649267749 source:e:\programacion\ejercicio6\main.c
 	<stdio.h>
 	<stdlib.h>
 	"functions.h"
 
-1649163746 e:\programacion\ejercicio6\functions.h
+1649267730 e:\programacion\ejercicio6\functions.h
 
-1649163952 source:e:\programacion\ejercicio6\functions.c
-	<stdio.h>
+1649267837 source:e:\programacion\ejercicio6\functions.c
 

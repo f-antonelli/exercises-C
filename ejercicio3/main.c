@@ -23,11 +23,14 @@ int main()
 
 double exponencial (int num, float tol) {
     double res = 1;
-    int i;
+    int i = 0;
 
     do {
+        i++;
+        res+= (potencia(num, i) / factorial(i));
+    } while ((potencia(num, i) / factorial(i) >= tol));
 
-    }
+    return res;
 }
 
 double factorial (int num) {

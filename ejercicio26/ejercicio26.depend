@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1649357210 source:e:\programacion\ejercicio25\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1649357138 source:e:\programacion\ejercicio25\functions.c
+	<stdio.h>
+	<stdbool.h>
+
+1649357203 e:\programacion\ejercicio25\functions.h
+	<stdbool.h>
+
+1649357138 source:e:\programacion\ejercicio26\functions.c
+	<stdio.h>
+	<stdbool.h>
+
+1649357210 source:e:\programacion\ejercicio26\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1649357203 e:\programacion\ejercicio26\functions.h
+	<stdbool.h>
+

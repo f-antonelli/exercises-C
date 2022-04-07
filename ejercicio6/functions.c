@@ -1,6 +1,4 @@
-#include <stdio.h>
-
-double potencia(int base, int exponente) {
+double potencia(float base, int exponente) {
     int i;
     double res = base;
 
@@ -19,25 +17,17 @@ double factorial(int num) {
     return res;
 }
 
-double obtenerSeno(int num, int tol){
+double obtenerSeno(float num, float tol){
     int i = 1, aux = 3;
-    double res = num, tolTest = 0;
+    double res = num;
 
     do {
-        printf("%lf\n", res);
-
         (i % 2 == 0)
             ?   (res += potencia(num, aux) / factorial(aux))
             :   (res -= potencia(num, aux) / factorial(aux));
-
         aux += 2;
         i++;
-        tolTest = (res < 0) ? res *= -1 : res;
-        printf("%d\n", tol);
-
-        printf("tol test: %lf\n\n", tolTest);
-
-    } while (tolTest < tol);
+    } while ((potencia(num, aux) / factorial(aux)) <= tol);
 
     return res;
 }
