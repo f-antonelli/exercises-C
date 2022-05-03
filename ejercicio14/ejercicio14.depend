@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649705241 source:e:\programacion\ejercicio14\functions.c
+	"functions.h"
+
+1649705262 source:e:\programacion\ejercicio14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1649704757 e:\programacion\ejercicio14\functions.h
+

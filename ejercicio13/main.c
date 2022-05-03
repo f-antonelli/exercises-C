@@ -26,5 +26,5 @@ bool esPrimo(int num) {
             aux++;
     }
 
-    return (aux == 2) ? 1 : 0;
+    return (aux == 2 ) ? 1 : 0;
 }
