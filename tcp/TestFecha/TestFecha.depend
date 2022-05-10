@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652045735 source:e:\programacion\resources\testfecha\main.cpp
+	<iostream>
+	"../Fecha/Fecha.h"
+	"../Fecha/FechaInvalidaException.h"
+
+1652045700 e:\programacion\resources\fecha\fecha.h
+
+1652038140 e:\programacion\resources\fecha\fechainvalidaexception.h
+

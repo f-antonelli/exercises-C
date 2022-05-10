@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1652060368 source:e:\programacion\resources\menutest\main.c
+	"main.h"
+
+1652060624 source:e:\programacion\resources\menutest\menu.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1652060612 e:\programacion\resources\menutest\menu.h
+
+1652062421 e:\programacion\resources\menutest\main.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1652060706 e:\programacion\resources\menutest\cadenas.h
+

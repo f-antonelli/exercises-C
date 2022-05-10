@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1652214460 source:e:\programacion\tp2\ej1\main.c
+	"func.h"
+
+1652123937 e:\programacion\tp2\ej1\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1652062872 source:e:\programacion\tp2\ej1\functions.c
+	<stdio.h>
+	<string.h>
+
+1652208627 source:e:\programacion\tp2\ej1\func.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1652213453 e:\programacion\tp2\ej1\func.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
