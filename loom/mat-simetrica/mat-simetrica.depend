@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652228198 source:e:\programacion\loom\mat-simetrica\main.c
+	<stdio.h>
+	<stdlib.h>
+

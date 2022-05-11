@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652221860 source:e:\programacion\loom\rev-loom-vdisj\main.c
+	<stdio.h>
+	<stdlib.h>
+
