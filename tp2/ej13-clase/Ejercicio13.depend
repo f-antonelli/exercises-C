@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1651282490 source:c:\users\jonatan\desktop\escritorio\ejercicios\ejercicio13\ejercicio13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1651281729 c:\users\jonatan\desktop\escritorio\ejercicios\ejercicio13\ejercicio13\funciones.h
+
+1652307127 source:e:\programacion\tp2\ej13\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1652307127 e:\programacion\tp2\ej13\funciones.h
+
+1652307127 source:e:\programacion\tp2\ej13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

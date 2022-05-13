@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652305942 source:e:\programacion\resources\arch-merge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
